@@ -6,7 +6,7 @@ Hi there I am **Marion**
 💞 I love uniting people and tech in order to tackle everyday challenges, grow innovation and drive change for a sustainable future with the help of technology. 
 
 ## My current position
-:avocado: As Head of Developer Relations I lead the overall strategy and strategic imperatives regarding developer relations and community growth at Code Intelligence. We help developers to build secure, resillient and robust applications.
+:avocado: As Head of Developer Relations and Developer Experience I lead the overall strategy and strategic imperatives regarding developer relations and community growth at Code Intelligence. We help developers to build secure, resillient and robust applications.
 
 I have strong proven skills in Developer Relations Strategy, GTM Strategies, Partner Relations (ISVs, Sell & Service), Design Thinking & Value Driven Methodologies, business development & operations and a growth mindset.
 I am constantly driving innovation and embrace teamwork, diversity, culture and inclusion. Also I have a deep understanding of technologies around hybrid cloud, data and AI.
